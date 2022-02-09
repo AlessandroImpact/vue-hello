@@ -14,12 +14,11 @@ body {
 /* REGOLE H1 */
 
 #root{
-    
+
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
-    height: 100vh;
+    height: 50vh;
 }
 
 h1 {
